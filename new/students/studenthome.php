@@ -95,7 +95,7 @@ if(!isset($_SESSION['studentlogin']))
                     </li>
 					
 					<li>
-                        <a href="payment"  ><i class="glyphicon glyphicon-payment"></i> payment</a>
+                        <a href="payment.php"  ><i class="glyphicon glyphicon-payment"></i> payment</a>
                     </li>
 					<li>
                         <a href="" onClick="print()"><i class="glyphicon glyphicon-print"></i> print report</a>
@@ -504,7 +504,7 @@ if(!isset($_SESSION['studentlogin']))
                 				</div>
 								<div class="progress">
                     		   <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 100%"><span class="sr-only">100% Complete (successfull)</span>
-							   you have successfully cleared from AE-FUNAI, congratulations!!
+							   you have successfully cleared from MUST, congratulations!!
                     		   </div>
 							   </div>
                             </div>
